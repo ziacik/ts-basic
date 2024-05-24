@@ -1,0 +1,17 @@
+{
+  "name": "plain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@resconet/jsbridge": "^17.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
